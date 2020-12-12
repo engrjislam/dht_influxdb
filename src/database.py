@@ -6,8 +6,8 @@ from influxdb import InfluxDBClient
 # InfluxDB credentials
 HOST     = 'localhost'
 PORT     = 8086
-USERNAME = 'admin'
-PASSWORD = 'admin'
+USERNAME = 'influxDBuser'
+PASSWORD = 'influxDBpass'
 DATABASE = 'strawberry_factory'
 
 
